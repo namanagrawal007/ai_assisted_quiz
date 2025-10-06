@@ -100,22 +100,25 @@ Include:
 - Question answering interface  
 - Results and feedback screen  
 
-<img width="540" height="1206" alt="image" src="https://github.com/user-attachments/assets/c32370d0-b255-4e2e-a9b5-92985966336b" />
-<img width="540" height="1206" alt="image" src="https://github.com/user-attachments/assets/5e572742-52ce-4e4f-9d40-ba4ebd1665fd" />
-<img width="540" height="1206" alt="image" src="https://github.com/user-attachments/assets/577d5fe0-e6e0-4eb8-afa2-64d32652e129" />
-<img width="540" height="1206" alt="image" src="https://github.com/user-attachments/assets/b2db5340-f9bd-4902-9765-e06a9ee65cc4" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c32370d0-b255-4e2e-a9b5-92985966336b" width="30%" />
+  <img src="https://github.com/user-attachments/assets/5e572742-52ce-4e4f-9d40-ba4ebd1665fd" width="30%" />
+  <img src="https://github.com/user-attachments/assets/577d5fe0-e6e0-4eb8-afa2-64d32652e129" width="30%" />
+</div>
 
-<img width="540" height="1206" alt="image" src="https://github.com/user-attachments/assets/339265a3-c71f-4839-aa3b-3a0a69a2ad5b" />
-<img width="540" height="1206" alt="image" src="https://github.com/user-attachments/assets/4771d469-f0c7-4df7-8531-e34d1a06aa54" />
-<img width="540" height="1206" alt="image" src="https://github.com/user-attachments/assets/a8498621-6c8e-4482-bd00-9c1476b479dd" />
-<img width="540" height="1206" alt="image" src="https://github.com/user-attachments/assets/b0dc95c8-32b9-4d23-b1fb-c242086a97cd" />
-<img width="540" height="1206" alt="image" src="https://github.com/user-attachments/assets/f47a54fb-20c5-4b71-a805-44bcc93b057f" />
-<img width="540" height="1206" alt="image" src="https://github.com/user-attachments/assets/b5d1a4c0-8573-4890-b5fd-6ef00e09516a" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b2db5340-f9bd-4902-9765-e06a9ee65cc4" width="30%" />
+  <img src="https://github.com/user-attachments/assets/339265a3-c71f-4839-aa3b-3a0a69a2ad5b" width="30%" />
+  <img src="https://github.com/user-attachments/assets/4771d469-f0c7-4df7-8531-e34d1a06aa54" width="30%" />
+</div>
 
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a8498621-6c8e-4482-bd00-9c1476b479dd" width="30%" />
+  <img src="https://github.com/user-attachments/assets/b0dc95c8-32b9-4d23-b1fb-c242086a97cd" width="30%" />
+  <img src="https://github.com/user-attachments/assets/f47a54fb-20c5-4b71-a805-44bcc93b057f" width="30%" />
+</div>
 
 ---
-
 ## 🐞 6. Known Issues / Improvements
 
 ### Known Issues
